@@ -32,5 +32,5 @@ El proyecto está desarrollado en **Java** y permite configurar parámetros como
 
 ### 1. **Clonar el Repositorio**
 ```bash
-git clone https://github.com/tu-usuario/game-of-life.git
+git clone https://github.com/CodeWithBotina/game-of-life.git
 cd game-of-life"# GameOfLife" 
